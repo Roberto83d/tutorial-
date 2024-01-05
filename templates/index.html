@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>System zarządzania firmą</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <h1>System zarządzania firmą</h1>
+    
+    <h2>Stan konta:</h2>
+    <p>{{ stan_konta }} PLN</p>
+    
+    <h2>Magazyn:</h2>
+    <ul>
+        {% for product, quantity in magazyn.items() %}
+            <li>{{ product }}: {{ quantity }}</li>
+        {% endfor %}
+    </ul>
+    
+    <h2>Zakup</h2>
+    <form action="/zakup" method="post">
+        <label for="produkt">Produkt:</label>
+        <input type="text" id="produkt" name="produkt">
+        <label for="cena">Cena:</label>
+        <input type="text" id="cena" name="cena">
+        <label for="ilosc">Ilość:</label>
+        <input type="text" id="ilosc" name="ilosc">
+        <button type="submit">Zakup</button>
+    </form>
+    
+    <h2>Sprzedaż</h2>
+    <form action="/sprzedaz" method="post">
+        <label for="produkt">Produkt:</label>
+        <input type="text" id="produkt" name="produkt">
+        <label for="ilosc">Ilość:</label>
+        <input type="text" id="ilosc" name="ilosc">
+        <button type="submit">Sprzedaż</button>
+    </form>
+    
+    <h2>Zmiana stanu konta</h2>
+    <form action="/zmiana_stanu_konta" method="post">
+        <label for="zmiana">Wartość zmiany:</label>
+        <input type="text" id="zmiana" name="zmiana">
+        <button type="submit">Zmień</button>
+    </form>
+    
+    <h2><a href="/historia/">Historia operacji</a></h2>
+</body>
+</html>

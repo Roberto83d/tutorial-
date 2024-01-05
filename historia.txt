@@ -1,0 +1,50 @@
+Sprzedano 4 szt. 44
+Sprzedano 2 szt. 4
+Sprzedano 2 szt. 1
+Sprzedano 4 szt. 4
+Sprzedano 4 szt. 4
+Sprzedano 4 szt. 4
+Sprzedano 1 szt. 1
+Sprzedano 4 szt. 4
+Sprzedano 1 szt. 1
+Zakupiono 4 szt. 4 za 4.0 zl/szt.
+Sprzedano 4 szt. 4
+Zakupiono 4 szt. 4 za 4.0 zl/szt.
+Sprzedano 4 szt. 4
+Zakupiono 1 szt. 1 za 1.0 zl/szt.
+Zakupiono 1 szt. PP za 1.0 zl/szt.
+Sprzedano 1 szt. PP
+Zmiana stanu konta o wartosc 444 zl
+Zmiana stanu konta o wartosc aa zl
+Zmiana stanu konta o wartosc aa zl
+Zmiana stanu konta o wartosc 111 zl
+Zmiana stanu konta o wartosc 444 zl
+Zmiana stanu konta o wartosc 444 zl
+Zmiana stanu konta o wartosc 1 zl
+Zmiana stanu konta o wartosc 1 zl
+Zmiana stanu konta o wartosc 111 zl
+Zakupiono 2 szt. 4 za 4.0 zl/szt.
+Zmiana stanu konta o wartosc 222 zl
+Zmiana stanu konta o wartosc 1 zl
+Zakupiono 4 szt. 4 za 4.0 zl/szt.
+Sprzedano 4 szt. 4
+Zakupiono 4 szt. 4 za 4.0 zl/szt.
+Zakupiono 4 szt. ww za 4.0 zl/szt.
+Sprzedano 4 szt. ww
+Zmiana stanu konta o wartosc 11.0 zl
+Zakupiono 4 szt. 4 za 4.0 zl/szt.
+Sprzedano 4 szt. 4
+Zakupiono 4 szt. 4 za 4.0 zl/szt.
+Sprzedano 4 szt. 4
+Sprzedano 4 szt. 4
+Sprzedano 4 szt. 4
+Zakupiono 4 szt. 4 za 4.0 zl/szt.
+Sprzedano 4 szt. 4
+Zmiana stanu konta o wartosc 11.0 zl
+Zmiana stanu konta o wartosc 11.0 zl
+Zmiana stanu konta o wartosc 444.0 zl
+Sprzedano 4 szt. 4
+Zakupiono 4 szt. 4 za 4.0 zl/szt.
+Zmiana stanu konta o wartosc 111.0 zl
+Sprzedano 4 szt. 4
+Zakupiono 4 szt. aaa za 4.0 zl/szt.
